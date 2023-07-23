@@ -1,0 +1,13 @@
+vless://e72df608-036e-4356-828f-82e18774019f@reality.vahidzanganeh.ir:2067?encryption=none&security=reality&sni=dynamolex.ir&fp=firefox&pbk=Fc-7CyTy-8qFSFx7S1BcMTLurXBxg6VYNZDOQfhiWiI&sid=4ad54d77&spx=%2F&type=tcp&headerType=none#dynamolex-chazvo4j
+
+vless://cfea1c65-0ff0-4eb3-b98b-c874dc864ed3@reality.vahidzanganeh.ir:2063?encryption=none&flow=xtls-rprx-vision&security=reality&sni=alorayaneh.ir&fp=firefox&pbk=M5B16XWqVqwOrhqw8Wk6qjPC3zmioXIGpuUwKINI5Bs&sid=601d20ac&spx=%2F&type=tcp&headerType=none#alorayaneh-ccpye1jn
+
+vless://00a04053-5b73-4c7a-e80c-f1457fde02f3@reality.vahidzanganeh.ir:2054?encryption=none&flow=xtls-rprx-vision&security=reality&sni=palet.ir&fp=firefox&pbk=449nQkD-tEdO2Xcy_Yo14Az3Qp66RGdLGHJuzZSiKTA&sid=1e037eaf&spx=%2F&type=tcp&headerType=none#palet-6p891bft
+
+vless://afb2c3d2-7c53-4d01-e374-2124e7eff853@reality.vahidzanganeh.ir:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eamedu.ir&fp=firefox&pbk=wLj94UU341Saup-WF6oKcyIh-9X1bDujRq6ZaiyiOXQ&sid=dd343d7d&spx=%2F&type=tcp&headerType=none#exo88-r5nr4gki
+
+vless://e5bbad76-6fb8-4c87-a6f4-802fc6f2d404@reality.vahidzanganeh.ir:2061?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tejaratnews.com&fp=firefox&pbk=JK6-7DvjVjTUSCX7AnEL_RIUwK3VzKJCYAcbPXUp2Bk&sid=e866b54f&spx=%2F&type=tcp&headerType=none#tejaratnew-xwr4m1w3
+
+vless://0d572c53-a9f2-419d-8056-0f9bf57b5dff@reality.vahidzanganeh.ir:2057?encryption=none&flow=xtls-rprx-vision&security=reality&sni=wisperd.ir&fp=firefox&pbk=kyadOkbpu7i1E_iYrWuzDE42BbRLKL9VllDGcDa0SEo&sid=cc357fde&spx=%2F&type=tcp&headerType=none#wisperd-jqxhox7k
+
+vless://304674f9-9bf7-40d6-ae03-232708955516@reality.vahidzanganeh.ir:2059?encryption=none&flow=xtls-rprx-vision&security=reality&sni=asandriver.com&fp=firefox&pbk=t_FZiBmrC_ad-AUF7JmEzgoRtMc4uFtywZessVg2oAs&sid=695e666e&spx=%2F&type=tcp&headerType=none#asan-w7x7xr6g
